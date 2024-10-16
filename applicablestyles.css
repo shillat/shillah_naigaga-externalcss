@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+
+section {
+    text-decoration: none;
+}
+
+.nstyles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: yellow;
+}
